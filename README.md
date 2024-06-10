@@ -31,7 +31,7 @@ Your users should be able to:
 ## Links
 
 - Solution URL:(https://github.com/jenkx60/Sunnyside-agency-landing-page-for-SideHustle-group-29)
-- Live Site URL: (https://sunny-side-sh-group29.netlify.app/)
+- Live Site URL: (https://social-links-profile-jenkins.netlify.app/)
 
 
 ## What I learnt
