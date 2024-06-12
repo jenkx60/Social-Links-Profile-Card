@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out our SideHustle Capstone Project.
+Thanks for checking out my Frontend Mentor Challenge Solution.
 
 ## The challenge
 
